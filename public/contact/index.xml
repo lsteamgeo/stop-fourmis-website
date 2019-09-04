@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Stop-Frelons</title>
+    <link>https://www.stop-frelons.com/contact/</link>
+    <description>Recent content in Contact on Stop-Frelons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 18 Feb 2019 19:36:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.stop-frelons.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Message envoyé</title>
+      <link>https://www.stop-frelons.com/contact/success/</link>
+      <pubDate>Mon, 18 Feb 2019 19:36:10 +0100</pubDate>
+      
+      <guid>https://www.stop-frelons.com/contact/success/</guid>
+      <description>Votre message a bien été envoyé. Nous vous répondrons dans les meilleurs délais. </description>
+    </item>
+    
+  </channel>
+</rss>

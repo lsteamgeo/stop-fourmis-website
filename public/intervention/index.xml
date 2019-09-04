@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demande d&#39;intervention on Stop-Frelons</title>
+    <link>https://www.stop-frelons.com/intervention/</link>
+    <description>Recent content in Demande d&#39;intervention on Stop-Frelons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 18 Feb 2019 19:36:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.stop-frelons.com/intervention/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demande d&#39;intervention envoyée</title>
+      <link>https://www.stop-frelons.com/intervention/success/</link>
+      <pubDate>Mon, 18 Mar 2019 19:36:10 +0100</pubDate>
+      
+      <guid>https://www.stop-frelons.com/intervention/success/</guid>
+      <description>Votre demande d&#39;intervention a bien été envoyée. Nous vous contacterons dans les meilleurs délais. </description>
+    </item>
+    
+  </channel>
+</rss>

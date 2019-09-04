@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planifier une intervention on Stop-Frelons</title>
+    <link>https://www.stop-frelons.com/shop/</link>
+    <description>Recent content in Planifier une intervention on Stop-Frelons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 18 Feb 2019 19:36:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.stop-frelons.com/shop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intervention</title>
+      <link>https://www.stop-frelons.com/shop/intervention_pour_un_particulier/</link>
+      <pubDate>Mon, 18 Feb 2019 19:36:10 +0100</pubDate>
+      
+      <guid>https://www.stop-frelons.com/shop/intervention_pour_un_particulier/</guid>
+      <description>Lors de la validation de votre demande, vous serez contacté(e) téléphoniquement pour fixer l&#39;heure de l&#39;intervention. </description>
+    </item>
+    
+    <item>
+      <title>Intervention</title>
+      <link>https://www.stop-frelons.com/shop/intervention_pour_un_professionnel/</link>
+      <pubDate>Mon, 18 Feb 2019 19:36:10 +0100</pubDate>
+      
+      <guid>https://www.stop-frelons.com/shop/intervention_pour_un_professionnel/</guid>
+      <description>Lors de la validation de votre demande, vous serez contacté(e) téléphoniquement pour fixer l&#39;heure de l&#39;intervention. </description>
+    </item>
+    
+    <item>
+      <title>Intervention</title>
+      <link>https://www.stop-frelons.com/shop/intervention_pour_une_administration/</link>
+      <pubDate>Mon, 18 Feb 2019 19:36:10 +0100</pubDate>
+      
+      <guid>https://www.stop-frelons.com/shop/intervention_pour_une_administration/</guid>
+      <description>Lors de la validation de votre demande, vous serez contacté(e) téléphoniquement pour fixer l&amp;rsquo;heure de l&amp;rsquo;intervention.</description>
+    </item>
+    
+  </channel>
+</rss>

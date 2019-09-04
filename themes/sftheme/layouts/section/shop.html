@@ -1,0 +1,33 @@
+{{ define "header"}}
+{{ partial "page_header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+
+{{ $products := getJSON "/data/products.json" }}
+ 
+<!-- Section Start - Page With Sidebar -->
+<section  id='team'>
+    <div class="container"> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-article">
+              <header>
+                <h1 class="heading">
+                  {{ .Title }}
+                </h1>
+                <div class="headul"></div>
+                <p class="subheading">Sélectionnez l'intervention selon votre qualité (particulier, professionnel ou administration) afin que notre intervention se prépare dans les meilleures conditions, complétez précisément les renseignements demandés. Vous avez la possibilité de régler votre intervention directement en ligne ou le jour de l'intervention.</p>
+              </header>
+              
+              <div class='products'>
+                {{ .Content }}
+                {{ range $products }}
+                  {{ partial "product.html" . }}
+                {{ end }}
+              </div>
+            </div>
+    </div>
+</section>
+<!-- Section End - Page With Sidebar -->
+
+{{ end }}

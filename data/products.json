@@ -1,0 +1,35 @@
+[{
+    "id": "1",
+    "qualite":"un particulier",
+    "name": "Intervention particulier",
+    "price": 139.00,
+    "description": "Traitement de nid de frelons/guêpes",
+    "image": "/img/intervention_01.jpg",
+    "cartImage": "/images/uploads/picto-intervention.gif",
+    "url": "https://stopfrelons.netlify.com",
+    "link": "/shop/intervention_pour_un_particulier/"
+
+},
+{
+    "id": "2",
+    "qualite":"un professionnel",
+    "name": "Intervention professionnel",
+    "price": 139.00,
+    "description": "Traitement de nid de frelons/guêpes",
+    "image": "/img/intervention_02.jpg",
+    "cartImage": "/images/uploads/picto-intervention.gif",
+    "url": "https://stopfrelons.netlify.com",
+    "link": "/shop/intervention_pour_un_professionnel/"
+},
+{
+    "id": "3",
+    "highlight" : "Forfait 5 interventions",
+    "qualite":"une administration",
+    "name": "Pack administration : 5 interventions",
+    "price": 645.00,
+    "description": "Traitement de nid de frelons/guêpes",
+    "image": "/img/intervention_03.jpg",
+    "cartImage": "/images/uploads/picto-intervention.gif",
+    "url": "https://stopfrelons.netlify.com",
+    "link": "/shop/intervention_pour_une_administration/"
+}]
