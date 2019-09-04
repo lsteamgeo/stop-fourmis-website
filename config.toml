@@ -1,6 +1,6 @@
-baseURL = "https://www.stop-frelons.com/"
+baseURL = "https://www.stop-fourmis.com/"
 languageCode = "fr-fr"
-title = "Stop-Frelons"
+title = "Stop-Fourmis"
 theme = "sftheme"
 
 [menu]
