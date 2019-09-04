@@ -122,10 +122,10 @@ section.bg-primary p{font-weight:400;}
 
 
 section.header .container .logo {
-    min-width: 215px;
+    min-width: 225px;
 }
 section.header .container .logo span {
-    font-size: 25px;
+    font-size: 23px;
 }
 section.header .container .logo span::after {
     width: 60px;
