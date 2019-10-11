@@ -10,7 +10,7 @@ weight : 4
 ---
 
 <h3>Vous êtes envahi(e)(s) par les fourmis ?</h3>
-<p>En France, les fourmis sont inoffensives. Néanmoins, lorsqu’elles occupent un espace cela devient vite désagréable et cela peut occasionner une gêne dans les intérieurs (cuisine, salle de bain) et des dégâts sur des éléments tels que les toitures.</p>
+<p>En France, les fourmis sont inoffensives. Néanmoins, lorsqu’elles occupent un espace cela devient vite désagréable et cela peut occasionner une gêne dans les intérieurs (cuisine, salle de bain) et des dégâts sur des éléments tels que les charpentes.</p>
 
 <p>Les fourmis sont attirées par la nourriture et l’humidité. Elles apprécient particulièrement la cuisine et la salle de bain. Pour limiter leur invasion dans vos espaces intérieurs, il est important de ne pas laisser d’aliments à l’air libre et de nettoyer les zones susceptibles de contenir des aliments (plan de travail, placards, tapis…) et également d’aérer régulièrement les espaces humides comme la salle de bain.</p>
 
