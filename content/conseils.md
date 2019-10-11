@@ -1,15 +1,15 @@
 ---
 title: "Conseils"
-title2: "Enlever un nid de frelons, de frelons asiatiques et de guêpes"
-description: "Intervention rapide pour enlever un nid de frelons asiatiques, de frelons européens et de guêpes. Destruction rapide, toutes hauteurs. Secteur Alpes-Maritimes, Var et Monaco."
-keywords: "nid de frelons,enlever nid frelons,frelons,frelons asiatiques,frelons européens,guêpes,traitement nids de frelons,alpes-maritimes,var,monaco."
+title2: "Enlever un nid de fourmis, Prévention / Protection des fourmis charpentières"
+description: "Intervention rapide pour enlever un nid de fourmis. Traitement de fourmis charpentière sur charpentes. Secteur Alpes-Maritimes, Var et Monaco."
+keywords: "nid de fourmis,enlever nid fourmis,fourmis,fourmis charpentières,traitement nids de fourmis,alpes-maritimes,var,monaco."
 date: 2019-02-18T19:36:10+01:00
 draft: false
 menu: main
 weight : 4
 ---
 
-<h3>Vous avez découvert un nid chez vous ?</h3>
+<h3>Vous êtes envahi(e)(s) par les fourmis ?</h3>
 <p>En France, les fourmis sont inoffensives. Néanmoins, lorsqu’elles occupent un espace cela devient vite désagréable et cela peut occasionner une gêne dans les intérieurs (cuisine, salle de bain) et des dégâts sur des éléments tels que les toitures.</p>
 
 <p>Les fourmis sont attirées par la nourriture et l’humidité. Elles apprécient particulièrement la cuisine et la salle de bain. Pour limiter leur invasion dans vos espaces intérieurs, il est important de ne pas laisser d’aliments à l’air libre et de nettoyer les zones susceptibles de contenir des aliments (plan de travail, placards, tapis…) et également d’aérer régulièrement les espaces humides comme la salle de bain.</p>
