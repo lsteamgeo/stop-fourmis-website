@@ -10,12 +10,13 @@ weight : 4
 ---
 
 <h3>Vous avez découvert un nid chez vous ?</h3>
-<p>N'intervenez pas, si vous n'êtes pas équipé d'une tenue de protection adaptée vous risquez de vous faire piquer. Les piqûres de frelons asiatiques peuvent être mortelles.</p>
-<p>Pour éviter une attaque, restez à distance du nid (observez de loin sans prendre de risques).</p>
-<p>Situez le nid (hauteur, grosseur, activité) afin de renseigner au mieux notre technicien avant l'intervention.</p>
-<p>Si cela est possible, identifiez l'espèce à savoir frelons européens, frelons asiatiques ou guêpes.</p>
-<p>Rentrez vos animaux de compagnie qui peuvent eux aussi être piqués.</p>
-<h3>Que faire en cas de piqûre ? </h3>
-<p>Contactez immédiatement les secours.</p>
-<p>Les piqûres de frelons européens et asiatiques peuvent être mortelles. Selon l'emplacement de la piqûre, le délai d'intervention des secours doit être très rapide. Ne perdez pas de temps.</p>
+<p>En France, les fourmis sont inoffensives. Néanmoins, lorsqu’elles occupent un espace cela devient vite désagréable et cela peut occasionner une gêne dans les intérieurs (cuisine, salle de bain) et des dégâts sur des éléments tels que les toitures.</p>
+
+<p>Les fourmis sont attirées par la nourriture et l’humidité. Elles apprécient particulièrement la cuisine et la salle de bain. Pour limiter leur invasion dans vos espaces intérieurs, il est important de ne pas laisser d’aliments à l’air libre et de nettoyer les zones susceptibles de contenir des aliments (plan de travail, placards, tapis…) et également d’aérer régulièrement les espaces humides comme la salle de bain.</p>
+
+<p>Certains types de fourmis comme la fourmi charpentière peuvent également représenter un grand danger pour la structure et la solidité de votre maison. Les fourmis charpentières raffolent du bois qu’elles creusent pour y installer leur nid, elles s’installent dans les charpentes des maisons.</p>
+
+<p>La fourmi charpentière à une espérance de vie de 7 à 17 ans pour la reine. Pendant de nombreuses années vous retrouverez ainsi les mêmes fourmis dans votre jardin ou dans votre maison.</p>
+
+<p>Pour remédier à ces intrusions, il vous faut un traitement efficace et durable.</p>
 
