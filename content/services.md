@@ -20,6 +20,8 @@ weight : 2
 		
 <h3>Notre tarif unique d'intervention</h3>
 <p>Stop-fourmis propose un seul et unique tarif à 90 euros<sup>*</sup>, et ce, quel que soit l’emplacement de la fourmilière à traiter, le jour de l’intervention ou le temps passé.</p>
+
+<p>Ce tarif est proposé pour une intervention sur une zone infestée type maison et jardin de superficie raisonnable. Pour une intervention sur une zone étendue type résidence, domaine, zone commerciale ..., veuillez <a href="/contact/" title="nous contacter">nous contacter</a>.</p>
 		
 <p><sup>*</sup> TVA non applicable, art. 293 B du CGI.</p>
 
