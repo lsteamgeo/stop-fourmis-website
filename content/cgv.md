@@ -28,5 +28,5 @@ draft: false
 
 <p>9 - De plus, sur toute somme non payée, il sera dû par le débiteur, outre les frais judiciaires répétables et les pénalités de retard, une indemnité fixée forfaitairement à 10% du montant restant à recouvrer et ce, à titre de clause pénale dans le sens prévu à l’article 1229 du Code Civil en raison du préjudice causé. Cette pénalité étant convenue de façon formelle entre les parties ne nécessitera aucune mise en demeure préalable.</p>
 
-<p>10 - Tous les litiges, tant avec nos fournisseurs qu’avec nos clients, seront de la compétence exclusive des tribunaux de Grasse, et ce, même en cas de stipulations contraires sur les lettres ou factures de nos contractants de même qu’en cas d’appel en garantie ou de pluralité de défendeurs.</p>
+<p>10 - Tous les litiges, tant avec nos fournisseurs qu'avec nos clients, seront de la compétence exclusive des tribunaux de Grasse, et ce, même en cas de stipulations contraires sur les lettres ou factures de nos contractants de même qu’en cas d’appel en garantie ou de pluralité de défendeurs.</p>
 
