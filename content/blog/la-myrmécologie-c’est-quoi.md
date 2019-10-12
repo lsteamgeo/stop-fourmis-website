@@ -2,6 +2,7 @@
 title: La myrmécologie
 date: 2019-10-12T12:40:14.904Z
 description: 'La myrmécologie, c’est quoi ?'
+image: /images/uploads/myrmecologie-etude-des-fourmis.jpg
 ---
 ## La myrmécologie, c’est quoi ?
 
