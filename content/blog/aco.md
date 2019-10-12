@@ -1,6 +1,6 @@
 ---
 title: ACO
-date: 2019-10-12T12:32:32.397Z
+date: 2019-10-01T12:32:32.397Z
 description: Algorithmes de colonies de fourmis / Ant Colony Optimization
 image: /images/uploads/aco-mmas-stop-fourmis-com.jpg
 ---
