@@ -6,6 +6,7 @@ description: >
   guêpes et les abeilles, les fourmis fonctionnent par polyéthisme, c’est-à-dire
   qu’elles répartissent le travail selon l’âge et le rang social au sein de la
   colonie.
+image: /images/uploads/fourmi.jpg
 ---
 ## **La Fourmi**
 
